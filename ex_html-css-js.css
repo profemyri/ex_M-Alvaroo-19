@@ -23,7 +23,7 @@ form {
    background-color: #ffffff
 }
 
-(input,select,textarea) {
+select {
    border-radius: 1 px
    border-color: #eaeaea
 }

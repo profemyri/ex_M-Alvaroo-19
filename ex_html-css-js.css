@@ -1,10 +1,21 @@
 body {
    background-color:#faf3e0;
-   color: #2c3e50
+   color: #2c3e50;
 }
 
 h1 {
-   ...........
+   text-size: 32 px;
+   color: #0077b6;
+   text-align: center;
+}
+
+h2 {
+   text-size: 26 px;
+   color: ##f4a261
+}  
+
+img {
+   
 }
 
 form {

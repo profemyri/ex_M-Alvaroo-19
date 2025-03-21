@@ -23,4 +23,9 @@ form {
    background-color: #ffffff
 }
 
-............
+(input,select,textarea) {
+   border-radius: 1 px
+   border-color: #eaeaea
+}
+
+

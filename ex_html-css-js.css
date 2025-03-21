@@ -1,25 +1,26 @@
 body {
-   background-color:#faf3e0;
-   color: #2c3e50;
+   background-color:#faf3e0
+   color: #2c3e50
 }
 
 h1 {
-   text-size: 32 px;
-   color: #0077b6;
-   text-align: center;
+   text-size: 32 px
+   color: #0077b6
+   text-align: center
 }
 
 h2 {
-   text-size: 26 px;
+   text-size: 26 px
    color: ##f4a261
 }  
 
 img {
-   
+   font-size: 100 px
+   align-content: center
 }
 
 form {
-   ...........
+   background-color: #ffffff
 }
 
 ............

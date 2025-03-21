@@ -27,3 +27,9 @@ select {
    border-radius: 1 px;
    border-color: #eaeaea;
 }
+
+button {
+   background-color: #0077b6;
+   color: white;
+   text-align: center;
+}
